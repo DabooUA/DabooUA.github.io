@@ -1,11 +1,11 @@
 # Site settings
 author: Serhiy Bardysh
-title: 
+title: My online journey to become Full Stack Developer one day at a time  
 header-img: img/home-bg.png
 email: sbardysh@tutanota.com
 copyright_name: Serhiy Bardysh
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CLI Project, my first project from scratch.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  DabooUA
